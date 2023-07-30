@@ -1,4 +1,4 @@
-# API que o Admin Tools utiliza...
+# API that Admin Tools uses...
 
-API que o site Admin Tools (posto aqui no github com o nome de 'mx-admin') utiliza para coletar e atualizar os dados.
-Note que nao possui o package.json, sera necessario instalar as bibliotecas de forma manual: @vrpjs/server, imgbb-uploader, mysql, axios, express, cors, body-parser. 
+API that the Admin Tools site (posted here on github under the name 'mx-fivem-api-site') uses to collect and update data.
+Note that it does not have package.json, it will be necessary to install the libraries manually: @vrpjs/server, imgbb-uploader, mysql, axios, express, cors, body-parser.
